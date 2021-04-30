@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f4f4f4;
+}
+
+.App {
+  background: #f0f0f0;
+}
+
+.App__inner {
+  padding: 1rem;
+}
+
+.formDepartement {
+  margin-bottom: 1rem !important;
+  width: 100%;
+}
+
+.sep {
+  margin-top: 2rem !important;
+  margin-bottom: 2rem !important;
+  text-align: center;
+}
+
+.h2, .h1 {
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+  text-align: center;
+}
+
+.loader__flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f1f2f3;
+  height: 100vh;
+}
